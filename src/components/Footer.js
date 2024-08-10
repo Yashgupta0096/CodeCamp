@@ -31,7 +31,7 @@ const Footer = (props) => {
           </div>
         </div>
         <div className="text-center mt-5">
-          <p>Made by <strong><b style={{color: 'yellow'}}>Manas Bajpai</b></strong> & <strong><b style={{color: 'yellow'}}>Abhay Sharma</b></strong></p>
+          <p>Made by <strong><b style={{color: 'yellow'}}>Yash Gupta</b></strong></p>
         </div>
       </div>
     </footer >
